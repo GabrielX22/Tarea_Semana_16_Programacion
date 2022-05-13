@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312054129721",
+    "project_id": "semana16-dfd93",
+    "storage_bucket": "semana16-dfd93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312054129721:android:060e8c3eb0816e8fe459e8",
+        "android_client_info": {
+          "package_name": "com.example.tareasemana16programacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312054129721-e2l51mup1jtl9ah1idb7srsprqehpvkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_j35EgdkCfoXqZhEFUeW3ZcayZNFQwt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312054129721-e2l51mup1jtl9ah1idb7srsprqehpvkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
